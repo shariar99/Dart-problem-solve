@@ -7,7 +7,7 @@ int calculateFactorial(int n) {
 }
 
 void main() {
-  int inputNumber = 5; // Change this to the desired positive integer.
+  int inputNumber = 5;
   if (inputNumber < 0) {
     print("Please enter a positive integer.");
   } else {
